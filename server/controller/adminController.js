@@ -1,0 +1,1 @@
+const adminDB = require('../model/admin');
